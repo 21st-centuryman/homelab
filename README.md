@@ -7,7 +7,6 @@
 [![OPNsense](https://img.shields.io/badge/OPNsense-D94F00.svg?style=for-the-badge&logoColor=white&logo=OPNSense)](https://opnsense.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logoColor=white&logo=debian)](https://www.debian.org/)
 [![Mint](https://img.shields.io/badge/Mint-87CF3E.svg?style=for-the-badge&logoColor=white&logo=linuxmint)](https://linuxmint.com/)
-[![Alpine](https://img.shields.io/badge/Alpine-0D597F.svg?style=for-the-badge&logoColor=white&logo=alpinelinux)](https://www.alpinelinux.org/)
 [![OpenBSD](https://img.shields.io/badge/OpenBSD-d8b62b.svg?style=for-the-badge&logoColor=white&logo=openbsd)](https://www.openbsd.org/plat.html)
 [![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows)
 -
