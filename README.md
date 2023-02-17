@@ -37,4 +37,4 @@ The ones that havent will be implemented when my time allows it:
 
 ![Diagram](./docs/diagram.png)
 
-
+Note that there is a typo in the vulnhub machines and I need to rethink how I will set up my hacking lab
