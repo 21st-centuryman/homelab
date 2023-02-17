@@ -30,3 +30,11 @@
 
 ## ⇁  Welcome
 This repo will be updated with time don't you worry :)
+
+## ⇁  Graph
+Below is a graph of how I want this homelab to eventually look. The technologies at the top of this repo have been implemented. 
+The ones that havent will be implemented when my time allows it:
+
+![Diagram](./docs/diagram.png)
+
+
