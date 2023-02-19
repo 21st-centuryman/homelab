@@ -19,6 +19,7 @@
 [![Wireguard](https://img.shields.io/badge/Wireguard-88171A.svg?style=for-the-badge&logoColor=white&logo=wireguard)](https://www.wireguard.com/)
 
 #### Future services
+[![Gitea](https://img.shields.io/badge/Gitea-#609926.svg?style=for-the-badge&logoColor=white&logo=gitea)](https://gitea.io/en-us/)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
 [![Traefik](https://img.shields.io/badge/Traefik-24A1C1.svg?style=for-the-badge&logoColor=white&logo=TraefikProxy)](https://www.traefik.com/)
