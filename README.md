@@ -12,20 +12,20 @@
 -
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
 [![Heimdall](https://img.shields.io/badge/Heimdall-3178C6.svg?style=for-the-badge&logoColor=white&logo=heimdall)](https://github.com/linuxserver/Heimdall)
+[![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=for-the-badge&logoColor=white&logo=minecraft)](https://www.minecraft.net/en-us/download/server)
+[![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
 [![Parsec](https://img.shields.io/badge/Parsec-f50049.svg?style=for-the-badge&logoColor=white&logo=parsec)](https://parsec.app/)
 [![Pihole](https://img.shields.io/badge/Pi--hole-96060C.svg?style=for-the-badge&logoColor=white&logo=pi-hole)](https://pi-hole.net/)
 [![Steam](https://img.shields.io/badge/Steam_link-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://store.steampowered.com/streaming/)
+[![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
 [![Wireguard](https://img.shields.io/badge/Wireguard-88171A.svg?style=for-the-badge&logoColor=white&logo=wireguard)](https://www.wireguard.com/)
+[![Qbittorent](https://img.shields.io/badge/Qbittorent-2496ED.svg?style=for-the-badge&logoColor=white&logo=qbittorrent)](https://www.qbittorent.com/)
 
 #### Future services
 [![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logoColor=white&logo=gitea)](https://gitea.io/en-us/)
-[![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
-[![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
 [![Traefik](https://img.shields.io/badge/Traefik-24A1C1.svg?style=for-the-badge&logoColor=white&logo=TraefikProxy)](https://www.traefik.com/)
-[![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
 [![Vulnhub](https://img.shields.io/badge/Vulnhub-ffffff.svg?style=for-the-badge&logoColor=white&logo=vulnhub)](https://www.vulnhub.com/)
-[![Qbittorent](https://img.shields.io/badge/Qbittorent-2496ED.svg?style=for-the-badge&logoColor=white&logo=qbittorrent)](https://www.qbittorent.com/)
 
 </div>
 
@@ -38,4 +38,4 @@ The ones that havent will be implemented when my time allows it:
 
 ![Diagram](./docs/diagram.png)
 
-Note that there is a typo in the vulnhub machines and I need to rethink how I will set up my hacking lab
+Note that thhis is an outdated grap. I need to update it.
