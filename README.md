@@ -41,4 +41,4 @@ The ones that havent will be implemented when my time allows it:
 
 ![Diagram](./docs/diagram.png)
 
-Note that thhis is an outdated graph. I need to update it.
+Note that this is an outdated graph. I need to update it.
