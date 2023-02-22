@@ -28,6 +28,7 @@
 [![Vulnhub](https://img.shields.io/badge/Vulnhub-ffffff.svg?style=for-the-badge&logoColor=white&logo=vulnhub)](https://www.vulnhub.com/)
 
 </div>
+
 ## ⇁  Disclaimer
 Please note that although I use a torrent client on my server I do not pirate movies, games, or any other media. I simply have a shared directory that I use to manage and seed linux ISOs for my Deffy server. I have a goal of eventually creating my own Linux distribution to help the ease of use for non-technical people so I want to have an easy way to manage multiple linux distributions for this goal. To learn more about this goal look at my future project [Arizona](https://github.com/21st-centuryman/arizona).
 
