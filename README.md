@@ -16,7 +16,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=for-the-badge&logoColor=white&logo=minecraft)](https://www.minecraft.net/en-us/download/server)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
 [![Parsec](https://img.shields.io/badge/Parsec-f50049.svg?style=for-the-badge&logoColor=white&logo=parsec)](https://parsec.app/)
-[![Pihole](https://img.shields.io/badge/Pi--hole-96060C.svg?style=for-the-badge&logoColor=white&logo=pi-hole)](https://pi-hole.net/)
+[![AdGuard](https://img.shields.io/badge/AdGuard-68BC71.svg?style=for-the-badge&logoColor=white&logo=adguard)](https://adguard.com/en/welcome.html)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
 [![Steam](https://img.shields.io/badge/Steam_link-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://store.steampowered.com/streaming/)
 [![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
