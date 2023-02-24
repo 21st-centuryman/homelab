@@ -40,6 +40,6 @@ This is a collection of the tools and services I use for my setup in my apartmen
 Below is a graph of how I want this homelab to eventually look. The technologies at the top of this repo have been implemented. 
 The ones that havent will be implemented when my time allows it:
 
-![Diagram](./docs/diagram.png)
+![Diagram](./docs/Deffy-Diagram.drawio.png)
 
 Note that this is an outdated graph. I need to update it.
