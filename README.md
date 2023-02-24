@@ -19,6 +19,7 @@
 [![AdGuard](https://img.shields.io/badge/AdGuard-68BC71.svg?style=for-the-badge&logoColor=white&logo=adguard)](https://adguard.com/en/welcome.html)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
 [![Steam](https://img.shields.io/badge/Steam_link-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://store.steampowered.com/streaming/)
+[![Watchtower](https://img.shields.io/badge/watchtower-175DDC.svg?style=for-the-badge&logoColor=white&logo=watchtower)](https://github.com/containrrr/watchtower)
 [![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
 [![Wireguard](https://img.shields.io/badge/Wireguard-88171A.svg?style=for-the-badge&logoColor=white&logo=wireguard)](https://www.wireguard.com/)
 [![Qbittorent](https://img.shields.io/badge/Qbittorent-2496ED.svg?style=for-the-badge&logoColor=white&logo=qbittorrent)](https://www.qbittorent.com/)
