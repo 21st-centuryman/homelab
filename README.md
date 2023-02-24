@@ -4,7 +4,6 @@
 #### A collection of the services I run on my homelab
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logoColor=white&logo=debian)](https://www.debian.org/)
-[![Mint](https://img.shields.io/badge/Mint-87CF3E.svg?style=for-the-badge&logoColor=white&logo=linuxmint)](https://linuxmint.com/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logoColor=white&logo=proxmox)](https://www.proxmox.com/en/)
 [![OpenBSD](https://img.shields.io/badge/OpenBSD-d8b62b.svg?style=for-the-badge&logoColor=white&logo=openbsd)](https://www.openbsd.org/plat.html)
 [![OPNsense](https://img.shields.io/badge/OPNsense-D94F00.svg?style=for-the-badge&logoColor=white&logo=OPNSense)](https://opnsense.org/)
