@@ -2,6 +2,18 @@
 version: "3"
 
 services:
+  dockerproxy:
+    image: ghcr.io/tecnativa/docker-socket-proxy:latest
+    container_name: dockerproxy
+    environment:
+      - CONTAINERS=1 # Allow access to viewing containers
+      - POST=0 # Disallow any POST operations (effectively read-only)
+    ports:
+      - 2375:2375
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro # Mounted as read-only
+    restart: unless-stopped
+    
   homepage:
     image: ghcr.io/benphelps/homepage:latest
     container_name: homepage
@@ -13,22 +25,6 @@ services:
     environment:
       PUID: 1000
       PGID: 1000
-
-  jellyfin:
-    image: lscr.io/linuxserver/jellyfin:latest
-    container_name: jellyfin
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=Europe/Stockholm
-    volumes:
-      - /home/cab/docker/jellyfin/config:/config
-      - /data/server/tvshows:/data/tvshows
-      - /data/server/movies:/data/movies
-    ports:
-      - 8096:8096
-      - 8920:8920 #optional
-      - 7359:7359/udp #optional
 
   jellyfin:
     image: lscr.io/linuxserver/jellyfin:latest
@@ -105,5 +101,14 @@ services:
       - /home/cab/data/server/vault:/data/
     ports:
       - 8880:80
+    restart: unless-stopped
+    
+  watchtower:
+    image: containrrr/watchtower:latest
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    ports:
+      - 9090:9090
+    command: --interval 10 --http-api-metrics --http-api-token demotoken
     restart: unless-stopped
 
