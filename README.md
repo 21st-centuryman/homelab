@@ -5,7 +5,6 @@
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logoColor=white&logo=debian)](https://www.debian.org/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logoColor=white&logo=proxmox)](https://www.proxmox.com/en/)
-[![OpenBSD](https://img.shields.io/badge/OpenBSD-d8b62b.svg?style=for-the-badge&logoColor=white&logo=openbsd)](https://www.openbsd.org/plat.html)
 [![OPNsense](https://img.shields.io/badge/OPNsense-D94F00.svg?style=for-the-badge&logoColor=white&logo=OPNSense)](https://opnsense.org/)
 [![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows)
 -
@@ -21,7 +20,6 @@
 [![Steam](https://img.shields.io/badge/Steam_link-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://store.steampowered.com/streaming/)
 [![Watchtower](https://img.shields.io/badge/watchtower-175DDC.svg?style=for-the-badge&logoColor=white&logo=watchtower)](https://github.com/containrrr/watchtower)
 [![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
-[![Wireguard](https://img.shields.io/badge/Wireguard-88171A.svg?style=for-the-badge&logoColor=white&logo=wireguard)](https://www.wireguard.com/)
 [![Qbittorent](https://img.shields.io/badge/Qbittorent-2496ED.svg?style=for-the-badge&logoColor=white&logo=qbittorrent)](https://www.qbittorent.com/)
 
 #### Future services
@@ -42,5 +40,3 @@ Below is a graph of how I want this homelab to eventually look. The technologies
 The ones that havent will be implemented when my time allows it:
 
 ![Diagram](./docs/Deffy-Diagram.drawio.png)
-
-Note that this is an outdated graph. I need to update it.
