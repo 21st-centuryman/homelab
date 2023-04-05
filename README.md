@@ -25,7 +25,6 @@
 #### Future services
 [![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logoColor=white&logo=gitea)](https://gitea.io/en-us/)
 [![Traefik](https://img.shields.io/badge/Traefik-24A1C1.svg?style=for-the-badge&logoColor=white&logo=TraefikProxy)](https://www.traefik.com/)
-[![Vulnhub](https://img.shields.io/badge/Vulnhub-ffffff.svg?style=for-the-badge&logoColor=white&logo=vulnhub)](https://www.vulnhub.com/)
 
 </div>
 
