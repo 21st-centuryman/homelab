@@ -2,5 +2,7 @@
 # A small script that launches minecraft on startup. Enable this to a cronjob and you are golden.
 # I am using Sir Sudos configuration, you can find his videos on odysee
 
+# To use this script add '@reboot /path/to/script'
+
 cd /opt/minecraft
 java -Xmx1024M -Xms1024M -jar server.jar nogui 
