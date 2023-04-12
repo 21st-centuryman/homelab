@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # This is a dumb little script for checking the CPU temperature on linux without 3rd party tools. 
 # This has gotten used more times than I care to admit as sometimes I like to push my hardware beyond its capabilities.
 
