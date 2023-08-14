@@ -3,19 +3,18 @@
 ## Homelab
 #### A collection of the services I run on my homelab
 
+[![Arch](https://img.shields.io/badge/Arch-1793D1.svg?style=for-the-badge&logoColor=white&logo=archlinux)](https://www.archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logoColor=white&logo=debian)](https://www.debian.org/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logoColor=white&logo=proxmox)](https://www.proxmox.com/en/)
 [![OPNsense](https://img.shields.io/badge/OPNsense-D94F00.svg?style=for-the-badge&logoColor=white&logo=OPNSense)](https://opnsense.org/)
 [![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows)
 -
-[![AdGuard](https://img.shields.io/badge/AdGuard-68BC71.svg?style=for-the-badge&logoColor=white&logo=adguard)](https://adguard.com/en/welcome.html)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
 [![Homepage](https://img.shields.io/badge/Homepage-3178C6.svg?style=for-the-badge&logoColor=white&logo=homepage)](https://github.com/benphelps/homepage)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
 [![Minecraft](https://img.shields.io/badge/Minecraft-62B47A.svg?style=for-the-badge&logoColor=white&logo=minecraft)](https://www.minecraft.net/en-us/download/server)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
-[![Parsec](https://img.shields.io/badge/Parsec-f50049.svg?style=for-the-badge&logoColor=white&logo=parsec)](https://parsec.app/)
-[![RetroArch](https://img.shields.io/badge/RetroArch-000000.svg?style=for-the-badge&logoColor=white&logo=retroarch)](https://www.retroarch.com/)
+[![Pihole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logoColor=white&logo=pihole)](https://pi-hole.net/)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
 [![Steam](https://img.shields.io/badge/Steam_link-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://store.steampowered.com/streaming/)
 [![Watchtower](https://img.shields.io/badge/watchtower-175DDC.svg?style=for-the-badge&logoColor=white&logo=watchtower)](https://github.com/containrrr/watchtower)
