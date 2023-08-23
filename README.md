@@ -12,7 +12,6 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
 [![Homepage](https://img.shields.io/badge/Homepage-3178C6.svg?style=for-the-badge&logoColor=white&logo=homepage)](https://github.com/benphelps/homepage)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
-[![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
 [![Pihole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logoColor=white&logo=pihole)](https://pi-hole.net/)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
 [![Steam](https://img.shields.io/badge/Steam_headless-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://github.com/21st-centuryman/docker-steam-headless)
@@ -20,6 +19,7 @@
 [![Qbittorent](https://img.shields.io/badge/Qbittorent-2496ED.svg?style=for-the-badge&logoColor=white&logo=qbittorrent)](https://www.qbittorent.com/)
 
 #### Future services
+[![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
 [![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logoColor=white&logo=gitea)](https://gitea.io/en-us/)
 [![Traefik](https://img.shields.io/badge/Traefik-24A1C1.svg?style=for-the-badge&logoColor=white&logo=TraefikProxy)](https://www.traefik.com/)
 [![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
