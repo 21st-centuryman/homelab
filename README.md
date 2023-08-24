@@ -14,7 +14,7 @@
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
 [![Pihole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logoColor=white&logo=pihole)](https://pi-hole.net/)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
-[![Steam](https://img.shields.io/badge/Steam_headless-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://github.com/21st-centuryman/docker-steam-headless)
+[![Steam](https://img.shields.io/badge/Steam_headless-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://github.com/21st-centuryman/docker-steamos)
 [![Watchtower](https://img.shields.io/badge/watchtower-175DDC.svg?style=for-the-badge&logoColor=white&logo=watchtower)](https://github.com/containrrr/watchtower)
 [![Qbittorent](https://img.shields.io/badge/Qbittorent-2496ED.svg?style=for-the-badge&logoColor=white&logo=qbittorrent)](https://www.qbittorent.com/)
 
