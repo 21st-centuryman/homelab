@@ -10,7 +10,8 @@
 [![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows)
 -
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
-[![Homepage](https://img.shields.io/badge/Homepage-3178C6.svg?style=for-the-badge&logoColor=white&logo=homepage)](https://github.com/benphelps/homepage)
+[![homeassistant](https://img.shields.io/badge/home_assistant-18BCF2.svg?style=for-the-badge&logoColor=white&logo=homeassistant)](https://www.home-assistant.io/)
+[![Homepage](https://img.shields.io/badge/Homepage-3178C6.svg?style=for-the-badge&logoColor=white&logo=homepage)](https://github.com/gethomepage/homepage)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
 [![Parsec](https://img.shields.io/badge/Parsec-F62E6A.svg?style=for-the-badge&logoColor=white&logo=parsec)](https://parsec.app/)
 [![Pihole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logoColor=white&logo=pihole)](https://pi-hole.net/)
