@@ -12,6 +12,7 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
 [![Homepage](https://img.shields.io/badge/Homepage-3178C6.svg?style=for-the-badge&logoColor=white&logo=homepage)](https://github.com/benphelps/homepage)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
+[![Parsec](https://img.shields.io/badge/Parsec-F62E6A.svg?style=for-the-badge&logoColor=white&logo=parsec)](https://parsec.app/)
 [![Pihole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logoColor=white&logo=pihole)](https://pi-hole.net/)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
 [![Steam](https://img.shields.io/badge/Steam_headless-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://github.com/21st-centuryman/docker-steamos)
@@ -30,8 +31,7 @@
 This is a collection of the tools and services I use for my setup in my apartment. This is nothing crazy to me, but I was recommended by a past colleague to set this up to illustrate my abilities around networks. I have everything set up in a docker compose file. I have yet to mess with kuberneties, but I might if I get a second server. Or I stop being a broke college student.
 
 ## ⇁  Graph
-THIS GRAPH IS OUT OF DATE
-Below is a graph of how I want this homelab to eventually look. The technologies at the top of this repo have been implemented. 
-The ones that havent will be implemented when my time allows it:
+Below is a graph of how I want this homelab to eventually look. 
+For future features check the icons in this repo
 
-![Diagram](./docs/Deffy-Diagram.drawio.png)
+![Diagram](./docs/homelab.drawio.png)
