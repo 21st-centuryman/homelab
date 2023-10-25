@@ -26,11 +26,8 @@
 
 </div>
 
-## ⇁  Disclaimer
-Please note that although I use a torrent client on my server I do **NOT** pirate movies, games, or any other media. I find it morally wrong. I simply have a shared directory that I use for ISOs and file transfer.
-
 ## ⇁  Welcome
-This is a collection of the tools and services I use for my setup in my apartment. This is nothing crazy to me, but I was recommended by a colleague to set this up to illustrate my abilities around networks. I have everything set up in a docker compose file. I have yet to mess with kuberneties, but I might if I get a backup server. Once I stop being a broke college student.
+This is a collection of the tools and services I use for my setup in my apartment. This is nothing crazy to me, but I was recommended by a past colleague to set this up to illustrate my abilities around networks. I have everything set up in a docker compose file. I have yet to mess with kuberneties, but I might if I get a second server. Or I stop being a broke college student.
 
 ## ⇁  Graph
 THIS GRAPH IS OUT OF DATE
