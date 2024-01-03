@@ -3,7 +3,6 @@
 ## Homelab
 #### A collection of the services I run on my homelab
 
-[![Alpine](https://img.shields.io/badge/Alpine-0D597F.svg?style=for-the-badge&logoColor=white&logo=alpinelinux)]([https://www.archlinux.org/](https://www.alpinelinux.org/))
 [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logoColor=white&logo=debian)](https://www.debian.org/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logoColor=white&logo=proxmox)](https://www.proxmox.com/en/)
 [![OPNsense](https://img.shields.io/badge/OPNsense-D94F00.svg?style=for-the-badge&logoColor=white&logo=OPNSense)](https://opnsense.org/)
@@ -15,13 +14,12 @@
 [![Homepage](https://img.shields.io/badge/Homepage-3178C6.svg?style=for-the-badge&logoColor=white&logo=homepage)](https://github.com/gethomepage/homepage)
 [![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC.svg?style=for-the-badge&logoColor=white&logo=jellyfin)](https://www.jellyfin.com/)
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
-[![NPM](https://img.shields.io/badge/nginx_proxy_manager-F15833.svg?style=for-the-badge&logoColor=white&logo=nginxproxymanager)](https://nginxproxymanager.com/)
+[![Swag](https://img.shields.io/badge/swag-009639.svg?style=for-the-badge&logoColor=white&logo=nginx)](https://docs.linuxserver.io/general/swag/)
 [![Parsec](https://img.shields.io/badge/Parsec-F62E6A.svg?style=for-the-badge&logoColor=white&logo=parsec)](https://parsec.app/)
 [![Pihole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logoColor=white&logo=pihole)](https://pi-hole.net/)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
 [![Steam](https://img.shields.io/badge/Steam_headless-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://github.com/21st-centuryman/docker-steam-headless)
 [![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
-[![Watchtower](https://img.shields.io/badge/watchtower-175DDC.svg?style=for-the-badge&logoColor=white&logo=watchtower)](https://github.com/containrrr/watchtower)
 [![Qbittorent](https://img.shields.io/badge/Qbittorent-2496ED.svg?style=for-the-badge&logoColor=white&logo=qbittorrent)](https://www.qbittorent.com/)
 
 </div>
