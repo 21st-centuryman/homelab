@@ -1,3 +1,5 @@
 # Websites I wanted to be able to access but my ad lists removed them
 urbandictionary.com
 4chan.org
+thepiratebay
+monero.org
