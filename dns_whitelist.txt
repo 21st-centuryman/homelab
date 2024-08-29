@@ -2,4 +2,4 @@
 @@|*.4chan.org^$important
 @@|*.urbandictionary.com^$important
 @@|*.monero.org^$important
-@@|*t.co^$important
+@@|*.t.co^$important
