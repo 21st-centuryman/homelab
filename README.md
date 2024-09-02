@@ -8,6 +8,7 @@
 [![OPNsense](https://img.shields.io/badge/OPNsense-D94F00.svg?style=for-the-badge&logoColor=white&logo=OPNSense)](https://opnsense.org/)
 [![Windows](https://img.shields.io/badge/windows-0078D6.svg?style=for-the-badge&logoColor=white&logo=windows)](https://www.microsoft.com/en-us/windows)
 -
+[![Adguard](https://img.shields.io/badge/Adguard-68BC71.svg?style=for-the-badge&logoColor=white&logo=adguard)](https://adguard.com/en/welcome.html)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logoColor=white&logo=docker)](https://www.docker.com/)
 [![Gitea](https://img.shields.io/badge/Gitea-609926.svg?style=for-the-badge&logoColor=white&logo=gitea)](https://gitea.io/en-us/)
 [![homeassistant](https://img.shields.io/badge/home_assistant-18BCF2.svg?style=for-the-badge&logoColor=white&logo=homeassistant)](https://www.home-assistant.io/)
@@ -16,7 +17,6 @@
 [![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logoColor=white&logo=nextcloud)](https://www.nextcloud.com/)
 [![Swag](https://img.shields.io/badge/swag-009639.svg?style=for-the-badge&logoColor=white&logo=nginx)](https://docs.linuxserver.io/general/swag/)
 [![Parsec](https://img.shields.io/badge/Parsec-F62E6A.svg?style=for-the-badge&logoColor=white&logo=parsec)](https://parsec.app/)
-[![Pihole](https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logoColor=white&logo=pihole)](https://pi-hole.net/)
 [![Speedtest](https://img.shields.io/badge/Speedtest_Tracker-141526.svg?style=for-the-badge&logoColor=white&logo=speedtest)](https://github.com/henrywhitaker3/Speedtest-Tracker)
 [![Steam](https://img.shields.io/badge/Steam_headless-000000.svg?style=for-the-badge&logoColor=white&logo=steam)](https://github.com/21st-centuryman/docker-steam-headless)
 [![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC.svg?style=for-the-badge&logoColor=white&logo=bitwarden)](https://github.com/dani-garcia/vaultwarden)
