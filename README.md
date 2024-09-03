@@ -30,4 +30,4 @@ This is a collection of the tools and services I use for my setup in my apartmen
 ## ⇁  Graph
 The below graph is always out of date, I tend to fix the icons to be up to date. However this diagram is always annoying to update.
 
-![Diagram](./docs/homelab.drawio.png)
+![Diagram](./docs/homelab.drawio.svg)
