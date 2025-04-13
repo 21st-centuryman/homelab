@@ -4,3 +4,4 @@
 @@|*.monero.org^$important
 @@|*.t.co^$important
 @@|t.co^$important
+@@|*.youtube.com^$important
